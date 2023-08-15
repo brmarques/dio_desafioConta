@@ -11,5 +11,5 @@ Problema padrão: Em um sistema bancário, o cliente pode optar por fazer saques
 
 O programa principal implementando em Paradigma Orientado a Objetos deve abordar as funções básicas da conta bancária, já a verificação de saldo, por estar presente em todas a contas, deve ser implementado em Paradigma Orientado a Aspectos. Pode ser utilizada a linguagem Java com extensão da linguagem para aspectos “AspectJ”.
 
- ! <p align=”center”>[image](https://github.com/brmarques/dio_desafioConta/assets/4356150/71009035-06c3-4132-a687-f3504a63baf3)
+ ![image](https://github.com/brmarques/dio_desafioConta/assets/4356150/71009035-06c3-4132-a687-f3504a63baf3)
 
