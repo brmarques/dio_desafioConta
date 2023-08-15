@@ -1,4 +1,9 @@
 // Classe ContaSalario.java
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
+
 public class ContaSalario extends Conta {
     public ContaSalario(TipoConta tipoConta, TipoCliente tipoCliente, String dataAbertura, double saldo) {
         super(tipoConta, tipoCliente, dataAbertura, saldo);
