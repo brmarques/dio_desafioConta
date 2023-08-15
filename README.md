@@ -1,5 +1,5 @@
 # dio_desafioConta
-Codigo do primeiro desafio da formação C/C++ Developer da DIO.
+Codigo do primeiro desafio da formação C/C++ Developer da DIO. A formação é em C++, mas o desafio foi feito em Java. 
 
 Desafio de Projeto: Desenvolvendo um Projeto com o Paradigma de Programação Orientado à Aspectos
 
@@ -11,5 +11,5 @@ Problema padrão: Em um sistema bancário, o cliente pode optar por fazer saques
 
 O programa principal implementando em Paradigma Orientado a Objetos deve abordar as funções básicas da conta bancária, já a verificação de saldo, por estar presente em todas a contas, deve ser implementado em Paradigma Orientado a Aspectos. Pode ser utilizada a linguagem Java com extensão da linguagem para aspectos “AspectJ”.
 
-![image](https://github.com/brmarques/dio_desafioConta/assets/4356150/71009035-06c3-4132-a687-f3504a63baf3)
+ <p align=”center”>![image](https://github.com/brmarques/dio_desafioConta/assets/4356150/71009035-06c3-4132-a687-f3504a63baf3)
 
