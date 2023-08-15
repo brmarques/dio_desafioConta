@@ -1,4 +1,9 @@
 // Classe ContaPoupanca.java
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
+
 public class ContaPoupanca extends Conta {
     public ContaPoupanca(TipoConta tipoConta, TipoCliente tipoCliente, String dataAbertura, double saldo) {
         super(tipoConta, tipoCliente, dataAbertura, saldo);
