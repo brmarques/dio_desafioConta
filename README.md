@@ -1,5 +1,5 @@
 # dio_desafioConta
-Codigo do primeiro desafio da formação C/C++ Developer da DIO. A formação é em C++, mas o desafio foi feito em Java. 
+Codigo do primeiro desafio da formação C/C++ Developer da DIO. A formação é em C++, mas o desafio foi feito em Java. :sweat_smile: :joy:
 
 Desafio de Projeto: Desenvolvendo um Projeto com o Paradigma de Programação Orientado à Aspectos
 
